@@ -9,6 +9,8 @@ The main points that make this app stand out from the others are:
 -login to save your configuration and shopping cart
 -useful tags when searching for best pc/cpu related to your work --> gaming/work oriented
 -scores for cpus and gpus to compare and get automated recommendations
+-shop for prebuilds
+-lots of information for those new to pc building
 
 Some future ideas that i am going to implement:
 -cooler recomandation based on cpu tdp
