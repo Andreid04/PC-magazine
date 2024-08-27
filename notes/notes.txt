@@ -1,0 +1,22 @@
+comparari cpu + price point exista deja:
+-cpubenchmark.net in passmark
+-tehnical.city tot passmark 
+pot adauga mai multe teste
+nu au filtru de pret care sa mi recomande direct ce e mai bun
+nu au cpu + motherboard compatibility
+-https://pcpartpicker.com arata compatibilitatea dar nu si recomandari de mb in fct de pret mb+cpu
+chestii noi:
+future proofing sugestions
+business oriented components
+price point comparison
+useful tags when searching for best pc/cpu related to your work  ----> gaming/work oriented
+login to save your config and see prices evolve/ new recomandations
+detailed images ---> estetics!!!!
+brand filter
+cooler recomandation based on cpu tdp
+
+price pointuri:
+2200 cu 2 cpu uri
+1000 cu ambele gpu uri si doar atat
+1500 cu oricare gpu sau/si cpu
+

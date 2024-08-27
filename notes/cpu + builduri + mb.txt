@@ -1,0 +1,261 @@
+500$ build:
+-i3 13100f
+-GIGABYTE B660M DS3H DDR4
+-GPU: NVIDIA GeForce GTX 1650 Super
+
+1500$ build:
+-ryzen 5 7600x
+-MSI MPG X670 Gaming Pro Carbon WiFi
+-GPU: NVIDIA GeForce RTX 3060 Ti
+
+3000$ build:
+-i9 14900k
+-GIGABYTE Z790 AORUS Xtreme DDR5
+-GPU: NVIDIA GeForce RTX 4080 super
+
+
+
+
+database for cpus(name + cores + turbo frequency):
+
+Core i9-13900K: 16 cores (8 cores + 8 eCores), up to 5.2 GHz - Estimated MSRP: $579
+Core i7-13700K: 16 cores (8 cores + 8 eCores), up to 5.0 GHz - Estimated MSRP: $399
+Core i5-13500: 12 cores (6 cores + 6 eCores), up to 4.6 GHz - Estimated MSRP: $249
+Core i3-13300: 8 cores (4 cores + 4 eCores), up to 4.2 GHz - Estimated MSRP: $159
+Core i9-13900KF: 16 cores (8 cores + 8 eCores), up to 5.2 GHz - Estimated MSRP: $559
+Core i7-13700KF: 16 cores (8 cores + 8 eCores), up to 5.0 GHz - Estimated MSRP: $379
+Core i5-13500F: 12 cores (6 cores + 6 eCores), up to 4.6 GHz - Estimated MSRP: $229
+Core i3-13300F: 8 cores (4 cores + 4 eCores), up to 4.2 GHz - Estimated MSRP: $139
+
+Core i9-14900K: 16 cores (8 cores + 8 eCores), up to 5.5 GHz - Estimated MSRP: $629
+Core i7-14700K: 16 cores (8 cores + 8 eCores), up to 5.3 GHz - Estimated MSRP: $449
+Core i5-14500: 12 cores (6 cores + 6 eCores), up to 4.8 GHz - Estimated MSRP: $279
+Core i3-14300: 8 cores (4 cores + 4 eCores), up to 4.4 GHz - Estimated MSRP: $179
+Core i9-14900KF: 16 cores (8 cores + 8 eCores), up to 5.5 GHz - Estimated MSRP: $599
+Core i7-14700KF: 16 cores (8 cores + 8 eCores), up to 5.3 GHz - Estimated MSRP: $419
+Core i5-14500F: 12 cores (6 cores + 6 eCores), up to 4.8 GHz - Estimated MSRP: $249
+Core i3-14300F: 8 cores (4 cores + 4 eCores), up to 4.4 GHz - Estimated MSRP: $159
+//16 cpus
+
+Ryzen 9 5950X: 16 cores, up to 4.9 GHz - Estimated MSRP: $799
+Ryzen 9 5900X: 12 cores, up to 4.8 GHz - Estimated MSRP: $549
+Ryzen 7 5800X: 8 cores, up to 4.7 GHz - Estimated MSRP: $449
+Ryzen 5 5600X: 6 cores, up to 4.6 GHz - Estimated MSRP: $299
+
+Ryzen 9 7950X: 24 cores, up to 5.0 GHz - Estimated MSRP: $899
+Ryzen 9 7900X: 16 cores, up to 4.9 GHz - Estimated MSRP: $649
+Ryzen 7 7800X: 12 cores, up to 4.8 GHz - Estimated MSRP: $499
+Ryzen 5 7600X: 8 cores, up to 4.7 GHz - Estimated MSRP: $349
+//24 cpus + 8 from 16
+
+mb database:
+
+ASUS ROG Maximus Z690 Hero (WiFi):
+Chipset: Intel Z690
+Estimated Price: $449
+MSI MPG Z690 Carbon WiFi:
+Chipset: Intel Z690
+Estimated Price: $349
+GIGABYTE Z690 AORUS Elite AX DDR4:
+Chipset: Intel Z690
+Estimated Price: $249
+ASRock Z690 Taichi:
+Chipset: Intel Z690
+Estimated Price: $379
+ASUS ROG Strix B660-F Gaming WiFi:
+Chipset: Intel B660
+Estimated Price: $229
+MSI MAG B660M Mortar WiFi:
+Chipset: Intel B660
+Estimated Price: $149
+GIGABYTE B660M AORUS PRO AX DDR4:
+Chipset: Intel B660
+Estimated Price: $159
+ASRock B660 Steel Legend:
+Chipset: Intel B660
+Estimated Price: $169
+ASUS TUF Gaming H670-PRO (WiFi):
+Chipset: Intel H670
+Estimated Price: $159
+MSI MAG H670M Mortar WiFi:
+Chipset: Intel H670
+Estimated Price: $129
+GIGABYTE H670M AORUS PRO AX DDR4:
+Chipset: Intel H670
+Estimated Price: $139
+ASRock H670 Steel Legend:
+Chipset: Intel H670
+Estimated Price: $149
+ASUS Prime B660M-A (WiFi):
+Chipset: Intel B660
+Estimated Price: $129
+MSI B660M PRO-VDH WiFi:
+Chipset: Intel B660
+Estimated Price: $99
+GIGABYTE B660M DS3H DDR4:
+Chipset: Intel B660
+Estimated Price: $89
+//15 high to low
+
+inca 3 high end:
+ASUS ROG Maximus Z790 Extreme Glacial:
+Chipset: Intel Z790
+Estimated Price: $799
+MSI MEG Z790 Godlike:
+Chipset: Intel Z790
+Estimated Price: $749
+GIGABYTE Z790 AORUS Xtreme DDR5:
+Chipset: Intel Z790
+Estimated Price: $699
+
+last gen mb:
+ASUS Prime Z490-A:
+Chipset: Intel Z490
+Estimated Price: $229
+MSI MPG Z490 Gaming Plus:
+Chipset: Intel Z490
+Estimated Price: $179
+GIGABYTE Z490 AORUS Elite AC:
+Chipset: Intel Z490
+Estimated Price: $199
+ASRock Z490 Phantom Gaming 4:
+Chipset: Intel Z490
+Estimated Price: $149
+ASUS ROG Strix Z390-E Gaming:
+Chipset: Intel Z390
+Estimated Price: $229
+MSI MPG Z390 Gaming Pro Carbon:
+Chipset: Intel Z390
+Estimated Price: $199
+GIGABYTE Z390 AORUS Elite:
+Chipset: Intel Z390
+Estimated Price: $189
+ASRock Z390 Taichi:
+Chipset: Intel Z390
+Estimated Price: $249
+ASUS Prime H470-Plus:
+Chipset: Intel H470
+Estimated Price: $139
+MSI B460M Mortar:
+Chipset: Intel B460
+Estimated Price: $119
+
+
+amd:
+
+ASUS ROG Crosshair VIII Hero (WiFi):
+Chipset: AMD X570
+Estimated Price: $379
+MSI MPG B550 Gaming Carbon WiFi:
+Chipset: AMD B550
+Estimated Price: $199
+GIGABYTE B450 AORUS Pro WiFi:
+Chipset: AMD B450
+Estimated Price: $129
+ASRock X570 Taichi:
+Chipset: AMD X570
+Estimated Price: $299
+ASUS Prime B450M-A/CSM:
+Chipset: AMD B450
+Estimated Price: $89
+MSI B450 Tomahawk Max:
+Chipset: AMD B450
+Estimated Price: $109
+GIGABYTE X570 AORUS Elite:
+Chipset: AMD X570
+Estimated Price: $199
+ASRock B550M Steel Legend:
+Chipset: AMD B550
+Estimated Price: $129
+ASUS TUF Gaming X570-Plus (WiFi):
+Chipset: AMD X570
+Estimated Price: $189
+MSI B550-A Pro:
+Chipset: AMD B550
+Estimated Price: $129
+AM5 Motherboards:
+
+ASUS ROG Crosshair XV Extreme:
+Chipset: AMD X670
+Estimated Price: $499
+MSI MEG X670 Godlike:
+Chipset: AMD X670
+Estimated Price: $549
+GIGABYTE X670 AORUS Master DDR5:
+Chipset: AMD X670
+Estimated Price: $449
+ASRock X670 Taichi:
+Chipset: AMD X670
+Estimated Price: $399
+ASUS Prime X670-Pro:
+Chipset: AMD X670
+Estimated Price: $349
+MSI MPG X670 Gaming Pro Carbon WiFi:
+Chipset: AMD X670
+Estimated Price: $349
+GIGABYTE X670 AORUS Elite DDR5:
+Chipset: AMD X670
+Estimated Price: $279
+ASRock B650M Pro4:
+Chipset: AMD B650
+Estimated Price: $149
+ASUS TUF Gaming B650M-Plus (WiFi):
+Chipset: AMD B650
+Estimated Price: $129
+MSI MAG B650M Mortar WiFi:
+Chipset: AMD B650
+Estimated Price: $129
+//10 + 10 mb primele 10 nu sunt in ordine
+
+
+
+gpu database: 50% la calcule
+
+NVIDIA GPUs:
+
+GeForce RTX 3050 - Estimated Price: $249
+GeForce RTX 3050 Ti - Estimated Price: $299
+GeForce RTX 3060 - Estimated Price: $329
+GeForce RTX 3060 Ti - Estimated Price: $399
+GeForce RTX 3070 - Estimated Price: $499
+GeForce RTX 3070 Ti - Estimated Price: $599
+GeForce RTX 3080 - Estimated Price: $699
+GeForce RTX 3080 Ti - Estimated Price: $1199
+GeForce RTX 3090 - Estimated Price: $1499
+GeForce RTX 3090 - Estimated Price: $1999
+GeForce RTX 4060 - Estimated Price: $399
+GeForce RTX 4060 Ti - Estimated Price: $499
+GeForce RTX 4070 - Estimated Price: $599
+GeForce RTX 4070 Ti - Estimated Price: $699
+GeForce RTX 4080 - Estimated Price: $899
+GeForce RTX 4080 Ti - Estimated Price: $1199
+GeForce RTX 4090 - Estimated Price: $1499
+//17
+
+AMD GPUs:
+
+Radeon RX 6600 - Estimated Price: $329
+Radeon RX 6600 XT - Estimated Price: $399
+Radeon RX 6700 - Estimated Price: $479
+Radeon RX 6700 XT - Estimated Price: $579
+Radeon RX 6800 - Estimated Price: $649
+Radeon RX 6800 XT - Estimated Price: $699
+Radeon RX 6900 XT - Estimated Price: $999
+Radeon RX 6950 XT - Estimated Price: $1199
+Radeon RX 6700 XT Navi 22 - Estimated Price: $549
+Radeon RX 6700 Navi 22 - Estimated Price: $479
+Radeon RX 7800 - Estimated Price: $699
+Radeon RX 7800 XT - Estimated Price: $799
+Radeon RX 7900 - Estimated Price: $999
+Radeon RX 7900 XT - Estimated Price: $1199
+//14
+
+
+
+
+
+
+
+
+
+
